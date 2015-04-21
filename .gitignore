@@ -1,0 +1,11 @@
+/proyecto1/web/bundles/
+/proyecto1/app/bootstrap.php.cache
+/proyecto1/app/cache/*
+/proyecto1/app/config/parameters.yml
+/proyecto1/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
+/proyecto1/build/
+/proyecto1/vendor/
+/proyecto1/bin/
+/proyecto1/composer.phar
